@@ -11,7 +11,7 @@
 
 Before using any cheats, you need to access the developer console:
 
-1. Open Cookie Clicker in your browser (click here to play).
+1. Open Cookie Clicker in your browser (click [here](https://cookieclicker.ee) to play).
 
 2. Press F12 (or Ctrl + Shift + I on Windows, Cmd + Option + I on Mac) to open the Developer Console.
 
