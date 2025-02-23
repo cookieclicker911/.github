@@ -27,7 +27,7 @@ Now you're ready to input cheats!
 
 Want unlimited cookies? Enter this command in the console:
 
-'Game.cookies = 999999999999;'
+`Game.cookies = 999999999999;`
 
 This instantly sets your cookies to a ridiculously high number.
 
@@ -35,26 +35,26 @@ This instantly sets your cookies to a ridiculously high number.
 
 Golden Cookies provide massive boosts. Spawn one instantly with:
 
-'Game.goldenCookie.click();'
+`Game.goldenCookie.click();`
 
 3. Unlock All Upgrades and Achievements
 
 Maximize your progress instantly:
 
-'Game.UpgradesById.forEach(upgrade => upgrade.unlock());
-Game.AchievementsById.forEach(achievement => achievement.unlock());'
+`Game.UpgradesById.forEach(upgrade => upgrade.unlock());
+Game.AchievementsById.forEach(achievement => achievement.unlock());`
 
 4. Speed Up Cookie Production
 
 Increase your cookies per second (CPS) dramatically:
 
-'Game.cookiesPs = 100000000;'
+`Game.cookiesPs = 100000000;`
 
 5. Spawn Free Sugar Lumps
 
 Sugar lumps help upgrade buildings and are usually slow to accumulate. Use:
 
-'Game.gainLumps(1000);'
+`Game.gainLumps(1000);`
 
 This gives you 1,000 sugar lumps instantly.
 ---
