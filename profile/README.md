@@ -87,6 +87,18 @@ Cheating in Cookie Clicker is safe in single-player mode, but using cheats in St
 ---
 ## 🎮 Play Cookie Clicker Today!
 
+1. [CookieClicker.ee](https://cookieclicker.ee/) (Official)
+
+2. [GitHub Versions](https://cookieclickernew.github.io)
+
+3. Use a VPN or Proxy: A VPN helps bypass network restrictions.
+
+4. Download the Mobile or Steam Version (When available)
+   
+📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
+
+🎮 [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
+
 Now that you know the best cheats, it's time to dominate the cookie world! Whether you use simple console commands or install mods for automation, these tricks will take your Cookie Clicker experience to the next level.
 
 [Start clicking now!](https://cookieclicker.ee)
